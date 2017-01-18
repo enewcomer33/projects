@@ -1,0 +1,9 @@
+
+
+
+
+cd ~ # go back to directory
+ls # list (the contents of the directory)
+mkdir (dirname) # create a directory
+pwd # print working directory
+touch (filename).txt # create a file
